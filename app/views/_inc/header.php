@@ -10,7 +10,8 @@
     <title><?=$data['title']?> | <?=__SITE_NAME__?></title>
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<!-- default favicon -->
+	
+	<!-- default favicon -->
 	<link rel="shortcut icon" href="https://findicons.com/files/icons/1722/gnome_2_18_icon_theme/24/stock_page_total_number.png" type="image/x-icon">
 	
 	<style>
