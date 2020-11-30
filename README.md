@@ -15,10 +15,10 @@
 - Bootsrap4
 
 ### Live Demo
-- Coming soon!
+- Coming soon...
 
 ### More details
-- More details at Coming soon!
+- More details at Coming soon...
 
 License
 ----
